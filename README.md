@@ -13,4 +13,4 @@ This is a single page application build with React, which shows a map of resorts
 2. You can choose a location from the list or you can filter the list by typing the name of your desired location in the input bar.
 3. By clicking on the location searched you can see on the map the exact position and view the -Info window- in the left corner.
 4. You can also click on the -marker- from the map to see the -Info window-.
-NOTE >>> The content of the -info window- comes from the Wikipedia.
+5. NOTE >>> The content of the -info window- comes from the Wikipedia.
