@@ -1,0 +1,57 @@
+[
+        {
+          "key": "key-valcea",
+          "title": "Râmnicu Vâlcea",
+          "name": "Râmnicu Vâlcea",
+          "position": { "lat": 45.097660, "lng": 24.373732 }
+        },
+
+        {
+          "key": "key-calimanesti",
+          "title": "Călimănești",
+          "name": "Călimănești",
+          "position": { "lat": 45.239080, "lng": 24.337632 }
+        },
+
+        {
+          "key": "key-horezu",
+          "title": "Horezu",
+          "name": "Horezu",
+          "position": { "lat": 45.147721, "lng": 23.984055 }
+        },
+
+        {
+          "key": "key-govora",
+          "title": "Băile Govora",
+          "name": "Băile Govora",
+          "position": { "lat": 45.079723, "lng": 24.188338 }
+        },
+
+        {
+          "key": "key-olanesti",
+          "title": "Băile Olănești",
+          "name": "Băile Olănești",
+          "position": { "lat": 45.201451, "lng": 24.235393 }
+        },
+
+        {
+          "key": "key-voineasa",
+          "title": "Voineasa",
+          "name": "Voineasa",
+          "position": { "lat": 45.415462, "lng": 23.964132}
+        },
+
+        {
+          "key": "key-buila",
+          "title": "Parcul Național Buila-Vânturarița",
+          "name": "Parcul Național Buila-Vânturarița",
+          "position": { "lat": 45.248021, "lng": 24.095796 }
+        },
+
+        {
+          "key": "key-cozia",
+          "title": "Parcul Național Cozia",
+          "name": "Parcul Național Cozia",
+          "position": { "lat": 45.298275, "lng": 24.242738 }
+        }
+]
