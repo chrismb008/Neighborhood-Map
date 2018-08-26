@@ -106,7 +106,7 @@ class App extends Component {
           infoContent: pageContent
         });
       }).catch(function (error) {
-        let pageError = 'Parsing failed ' + error;
+        let pageError = "We're sorry! Wikipedia data is unavailable :( Try refreshing later.";
         controlledThis.setState({
           infoContent: pageError
         });
